@@ -43,8 +43,8 @@ html {
 
 .nav {
   background-color: var(--secondary-color);
-  width: 85%;
-  height: 85%;
+  width: 90%;
+  height: 90%;
   border: 0.5rem solid var(--secondary-color);
   border-radius: 0.5rem;
 }
